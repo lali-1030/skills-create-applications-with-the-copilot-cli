@@ -1,5 +1,4 @@
 
-#!/usr/bin/env node
 
 // Node.js CLI Calculator
 // Supported operations:
